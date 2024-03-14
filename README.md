@@ -1,0 +1,9 @@
+- 👋 Hi there! I'm Vasuki Welcome to my GitHub profile!!
+-  Currently persuing my  BE degree in M.Kumarasamy College Of Enginnering in the stream of Electronics and Communication Enginnering .
+-   And  a passionate  about software developer with a love for clean code and solving complex problems
+-  I'm always eager to learn and explore new technologies.
+- 🌱 I’m currently learning web  development.
+- 👯 I’m looking to collaborate on open-source projects related to web development.
+- 💬 Ask me about Java, Python.
+- 📫 How to reach me: vasukimurugan0106@gmail.com,www.linkedin.com/in/vasuki-m-6b4377242,
+- ⚡ Fun fact: I love to hear music in my free time.
